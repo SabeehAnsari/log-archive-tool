@@ -78,3 +78,5 @@ tar -tzf archives/logs_archive_20261015_105945.tar.gz
 ## Project Source
 
 Built as part of the roadmap.sh DevOps projects: https://roadmap.sh/projects/log-archive-tool
+
+Project URL: https://github.com/SabeehAnsari/log-archive-tool
